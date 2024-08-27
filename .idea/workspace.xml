@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beabf938-43e9-4c8f-85d4-549f90c9b204" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qaCart/testClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qacart/academy/TestBOdy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/qacart/academy/TestInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testData/loginData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/loginData.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ks9PSn0uH32x9uOZZVLhtG1WcW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.TestBOdy.TestLogin.executor": "Run",
+    "TestNG.TestInfo.TestGetCourses.executor": "Run",
+    "TestNG.TestInfo.TestGetLectures.executor": "Run",
+    "TestNG.testClass.test.executor": "Run",
+    "TestNG.testClass.test2.executor": "Run",
+    "TestNG.testClass.test3.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/reastAssured/QaQart-RestAsssured-Salem/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestBOdy.TestLogin">
+    <configuration name="TestBOdy.TestLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaQart-RestAsssured-Salem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qacart.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qacart.academy" />
+      <option name="MAIN_CLASS_NAME" value="qacart.academy.TestBOdy" />
+      <option name="METHOD_NAME" value="TestLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInfo.TestGetCourses" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaQart-RestAsssured-Salem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qacart.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qacart.academy" />
+      <option name="MAIN_CLASS_NAME" value="qacart.academy.TestInfo" />
+      <option name="METHOD_NAME" value="TestGetCourses" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInfo.TestGetLectures" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaQart-RestAsssured-Salem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qacart.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="qacart.academy" />
+      <option name="MAIN_CLASS_NAME" value="qacart.academy.TestInfo" />
+      <option name="METHOD_NAME" value="TestGetLectures" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClass.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaQart-RestAsssured-Salem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaCart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaCart" />
+      <option name="MAIN_CLASS_NAME" value="com.qaCart.testClass" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClass.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QaQart-RestAsssured-Salem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaCart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaCart" />
+      <option name="MAIN_CLASS_NAME" value="com.qaCart.testClass" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestBOdy.TestLogin" />
+        <item itemvalue="TestNG.TestInfo.TestGetLectures" />
+        <item itemvalue="TestNG.TestInfo.TestGetCourses" />
+        <item itemvalue="TestNG.testClass.test3" />
+        <item itemvalue="TestNG.testClass.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beabf938-43e9-4c8f-85d4-549f90c9b204" name="Changes" comment="" />
+      <created>1724061394368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724061394368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qaCart/testClass.java</url>
+          <line>16</line>
+          <properties class="com.qaCart.testClass" method="test">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/qacart/academy/TestBOdy.java</url>
+          <line>16</line>
+          <properties class="qacart.academy.TestBOdy" method="TestLogin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
